@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 2nd Year CS Student | Learning by Building Projects</p>
+<p align="center">🎓 2nd Year CS Student | Learning by Building Projects</p>
 
 ###
 
@@ -67,10 +67,18 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joydeep-devx/joydeep-devx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joydeep-devx/joydeep-devx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joydeep-devx/joydeep-devx/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="left">📌 Currently Working On</h3>
+
+###
+
+<p align="left">- JavaScript fundamentals<br>- Frontend projects<br>- Preparing for React & backend</p>
+
+###
+
+<p align="left">— learning by building, one project at a time</p>
+
+###
+
+<p align="left">🤝 Let’s Connect<br>I’m open to learning, collaborating, and growing with other developers.</p>
 
 ###
