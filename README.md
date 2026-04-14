@@ -37,17 +37,8 @@
 <h2 align="left">💻 Languages</h2>
 
 ###
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="65" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="65" alt="c logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+  <img  src="https://skillicons.dev/icons?i=java,js,c,cpp,py"  height="80"  />
 </div>
 
 ###
@@ -57,13 +48,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="65" alt="css logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=react" height="65" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="tailwindcss logo"  />
+  <img  src="https://skillicons.dev/icons?i=html,css,react,tailwind"  height="80"  />
 </div>
 
 ###
@@ -73,11 +58,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="65" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="mongodb logo"  />
+  <img  src="https://skillicons.dev/icons?i=nodejs,express,mongodb"  height="80"  />
 </div>
 
 ###
@@ -87,11 +68,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
+  <img  src="https://skillicons.dev/icons?i=git,github,vscode"  height="80"  />
 </div>
 
 ###
