@@ -26,7 +26,7 @@
 ###
 ## 👨‍💻 About Me 
 * 🌍 I am from Kolkata , India
-* 🎓 2nd Year Student , B.Tech CSE passionate about software development
+* 🎓 3rd Year Student , B.Tech CSE passionate about software development
 * 💻 Focused on **Data Structures & Algorithms (DSA)** and **Backend Development**
 * ⚙️ Currently working with **Node.js, Express, and SQL**
 * 🚀 Building real-world projects to apply and strengthen my skills
